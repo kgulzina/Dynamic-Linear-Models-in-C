@@ -1,3 +1,5 @@
-# stat580
+# Dynamic Linear Models in C (STAT 580/ Final Project/ Spring/19)
 
-just a trial repository for the 2nd stat580 class
+**Authors**:
+- Gulzina Kuttubekova
+- Sepideh Mosaferi
